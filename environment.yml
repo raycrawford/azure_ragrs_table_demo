@@ -1,0 +1,7 @@
+name: azure_ragrs_table_demo
+dependencies: 
+- python=3.6.12
+- pip
+- pip:
+  - azure-cosmosdb-table==1.0.6
+  - datetime
